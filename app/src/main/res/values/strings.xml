@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GADS Leaderboard</string>
+    <string name="title_activity_submission">SubmissionActivity</string>
+</resources>
