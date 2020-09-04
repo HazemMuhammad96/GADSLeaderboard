@@ -60,7 +60,8 @@ public class SkillLeadersAdapter extends RecyclerView.Adapter<SkillLeadersAdapte
 
         public void bindViews(SkillLeader leader) {
             mNameTextView.setText(leader.getName());
-            Picasso.get().load(leader.getBadgeUrl()).into(mBadgeImageView);
+            Picasso.get().load(leader.getBadgeUrl()).
+                    placeholder(R.drawable.ic_image_placeholder).into(mBadgeImageView);
             mScoreTextView.setText(leader.getDescription());
         }
 
