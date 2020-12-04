@@ -39,7 +39,3 @@ Successful Submission Dialog
 
 ![successful_submission](https://user-images.githubusercontent.com/59747607/92187970-8b9d5500-ee5b-11ea-8b8c-d537696634af.jpeg)
 
-
-Failed Submission Dialog
-
-![failed_submission](https://user-images.githubusercontent.com/59747607/92187975-8dffaf00-ee5b-11ea-8f8f-501131e6a6f0.jpeg)
